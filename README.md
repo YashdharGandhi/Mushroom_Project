@@ -1,4 +1,6 @@
-Mushroom Edibility Prediction Project
+**Mushroom Edibility Prediction Project**
+
+
 Overview
 This project presents a comprehensive analysis of mushroom edibility using machine learning techniques. The study employs decision trees and random forests to classify mushrooms as edible or poisonous based on their physical characteristics. Through rigorous model tuning, cross-validation, and statistical testing, the project identifies the most effective predictive approach.
 
