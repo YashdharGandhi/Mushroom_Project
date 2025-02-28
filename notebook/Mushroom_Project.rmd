@@ -1,6 +1,6 @@
 ---
-title: 'Assessed Practical III: Can I eat that mushroom?'
-author: "Yashdhar Gandhi 201783891"
+title: 'Can I eat that mushroom?'
+author: "Yashdhar Gandhi "
 date: "2024-05-29"
 output :
   html_document:
@@ -9,7 +9,6 @@ output :
     number_sections: true
 bibliography: bibassignment3.bib
 ---
-Student Number: “201783891” Email: ‘mm23ysg@leeds.ac.uk’
 
 
 ```{r setup, include=FALSE}
