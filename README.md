@@ -46,3 +46,9 @@ The dataset used in this project contains key attributes that describe various c
   - `rpart`
   - `rpart.plot`
   - `randomForest`
+
+## Author 
+**Yashdhar Gandhi**
+
+## License
+This project is licensed under the MIT License.
