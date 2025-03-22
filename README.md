@@ -1,4 +1,4 @@
-# Mushroom Edibility Prediction Project
+# Mushroom Edibility Classification Using Ensemble Learning
 
 ## Overview
 
